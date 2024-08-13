@@ -32,4 +32,3 @@ def main():
         elif inp == "5" or inp == "exit" :
             break
 main()
-print("hello world")
